@@ -210,3 +210,10 @@ img {
 .curso:last-of-type {
   border-bottom: none;
 }
+/* Formulario Contacto */
+.contacto-bg {
+  background-image: url(../img/contacto.jpg);
+  height: 40rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
